@@ -1,4 +1,12 @@
-# data_analytics_portfolio
-This is a repository that I created to share projects and keep track of my progress on Data Analytics related topics.
+## About
+Resumo curriculo
 
-fdfsd
+## Table of Contents
+- [About](#About)
+## Study Projects
+
+## Certificates
+
+## Contacts
+- E-mail: sergiorkd@gmail.com
+* Linkedin: [Sergio-Rutowitsch](https://www.linkedin.com/in/sergio-rutowitsch/)
