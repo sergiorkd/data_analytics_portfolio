@@ -3,6 +3,9 @@ Resumo curriculo
 
 ## Table of Contents
 - [About](#About)
+- [Study Projects](#Study Projects)
+- [Certificates](#Certificates)
+- [Contacts](#Contacts)
 ## Study Projects
 
 ## Certificates
