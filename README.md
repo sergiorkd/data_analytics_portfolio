@@ -14,7 +14,8 @@ I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for
 **Dashboard**: [Alura films.pbix] (https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20films.pbix) and [Filmes.csv](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Filmes.csv)  
 **Description**: This is a dataset provided by Alura containing 1.000 records of IMDB film ratings. There is a list of information about movie information like name, review, run time and overview. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, variable standardization, analyzing movies based on genres and actors and making a dashboard.
 **Skills**: data cleaning, data analysis, data visualization, Python, Pandas, Seaborn, Matplotlib, Numpy, Power BI.
-
+- Remember to download files to the same local.
+- Here is a [PDF](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20films.pdf) version of the dashboard.  
 
 ### Smartphone sales report with Power BI  
 **Dashboard**: [Smartphone sales report.pbix](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales%20report.pbix) and [Base Vendas](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Base%20Vendas.xlsx)  
@@ -22,8 +23,8 @@ I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for
 **Skills**: data cleaning, data analysis, data visualization.
 **Technology**: Power BI, Power Query, DAX.
 **Results**: Review of 2020 Brazil smartphone sales.
-* Remember to download both Smartphone sales report and Base vendas files to the same local.
-** Here is a [PDF](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales%20report.pdf) version of the dashboard.  
+- Remember to download both Smartphone sales report and Base vendas files to the same local.  
+- Here is a [PDF](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales%20report.pdf) version of the dashboard.  
 
 ## Certificates
 Here is a list of certificates that I got while studying (in reverse-chronological order, with the date of completion in brackets).  
@@ -36,4 +37,4 @@ Here is a list of certificates that I got while studying (in reverse-chronologic
 
 ## Contacts
 - E-mail: sergiorkd@gmail.com
-* Linkedin: [Sergio-Rutowitsch](https://www.linkedin.com/in/sergio-rutowitsch/)
+- Linkedin: [Sergio-Rutowitsch](https://www.linkedin.com/in/sergio-rutowitsch/)
