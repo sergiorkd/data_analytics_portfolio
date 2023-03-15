@@ -9,6 +9,13 @@ Resumo curriculo
 
 ## Study Projects
 
+### Smartphone sales report with Power BI  
+**Description**: This is a dataset provided by Hashtag Treinamentos containing 10.000 records of 2020. There is a list of information about smartphone sales in Brazil with product name, number of sales, date, location, client name, client gender and income. The project includes data loading, cleaning and preprocessing, filling missing values all done with Microsoft Power BI and Power Query. The dashboard shows the total income, total sales, best selling product, the mean price of smartphones, a bar plot with income per product, a a series plot with monthly income, a pie chart with sales per gender and a heatmap with sales per region.  
+**Skills**: data cleaning, data analysis, data visualization.
+**Technology**: Power BI, Power Query, DAX.
+**Results**: Review of 2020 Brazil smartphone sales.
+
+
 ## Certificates
 Here is a list of certificates that I got while studying (in reverse-chronological order, with the date of completion in brackets).  
 - [Fundamentos de ETL com Python](https://www.dio.me/certificate/6B3AEB25) (Mar 2023) (DIO)  
