@@ -1,13 +1,11 @@
 ## About
-I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for experiences in the information technology area. I have experience with report generation using Power BI and excel, with good capacity to analyze results and with thinking focused on continuous process improvement. Currently I am studying to improve my knowledge in SQL programming, I have good command of the python language using packages like pandas and numpy for data analysis.
-
-Translated with www.DeepL.com/Translator (free version)
+I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for experiences in the information technology area. I have experience with report generation using Power BI and excel, with good capacity to analyze results and with thinking focused on continuous process improvement. Currently I am studying to improve my knowledge in SQL programming, I have good command of the python language using packages like pandas and numpy for data analysis.  
 
 ## Table of Contents
 - [About](#About)
 - [Study Projects](#Study-Projects)
 - [Certificates](#Certificates)
-- [Contacts](#Contacts)
+- [Contacts](#Contacts)  
 
 ## Study Projects
 
@@ -17,7 +15,8 @@ Translated with www.DeepL.com/Translator (free version)
 **Skills**: data cleaning, data analysis, data visualization.
 **Technology**: Power BI, Power Query, DAX.
 **Results**: Review of 2020 Brazil smartphone sales.
-** Remember to download both Smartphone sales report and Base vendas files to the same local.
+* Remember to download both Smartphone sales report and Base vendas files to the same local.
+** Here is a [PDF](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales%20report.pdf) version of the dashboard.  
 
 ## Certificates
 Here is a list of certificates that I got while studying (in reverse-chronological order, with the date of completion in brackets).  
