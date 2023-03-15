@@ -11,7 +11,7 @@ I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for
 
 ### IMBD data analisys with Python and Power BI  
 **Code**: [Alura films.ipynb](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20Films.ipynb)
-**Dashboard**: [Alura films.pbix] (https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20films.pbix) and [Filmes.csv](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Filmes.csv)  
+**Dashboard**: [Alura films.pbix](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20films.pbix) and [Filmes.csv](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Filmes.csv)  
 **Description**: This is a dataset provided by Alura containing 1.000 records of IMDB film ratings. There is a list of information about movie information like name, review, run time and overview. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, variable standardization, analyzing movies based on genres and actors and making a dashboard.
 **Skills**: data cleaning, data analysis, data visualization, Python, Pandas, Seaborn, Matplotlib, Numpy, Power BI.
 - Remember to download files to the same local.
