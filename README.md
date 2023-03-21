@@ -18,7 +18,7 @@ I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for
 - Here is a [PDF](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Alura%20Films/Alura%20films.pdf) version of the dashboard.  
 
 ### Smartphone sales report with Power BI  
-**Dashboard**: [Smartphone sales report.pbix]https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales/Smartphone%20sales%20report.pbix) and [Base Vendas](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales/Base%20Vendas.xlsx)  
+**Dashboard**: [Smartphone sales report.pbix](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales/Smartphone%20sales%20report.pbix) and [Base Vendas](https://github.com/sergiorkd/data_analytics_portfolio/blob/main/Smartphone%20sales/Base%20Vendas.xlsx)  
 **Description**: This is a dataset provided by Hashtag Treinamentos containing 10.000 records of 2020. There is a list of information about smartphone sales in Brazil with product name, number of sales, date, location, client name, client gender and income. The project includes data loading, cleaning and preprocessing, filling missing values all done with Microsoft Power BI and Power Query. The dashboard shows the total income, total sales, best selling product, the mean price of smartphones, a bar plot with income per product, a a series plot with monthly income, a pie chart with sales per gender and a heatmap with sales per region.  
 **Skills**: data cleaning, data analysis, data visualization.
 **Technology**: Power BI, Power Query, DAX.
