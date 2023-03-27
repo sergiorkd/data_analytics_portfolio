@@ -28,6 +28,7 @@ I am a Mechanical Engineering graduate from CEFET-MG (2022) and I am looking for
 
 ## Certificates
 Here is a list of certificates that I got while studying (in reverse-chronological order, with the date of completion in brackets).  
+- [Formação SQL com PostgreSQL](https://cursos.alura.com.br/degree/certificate/e9832cc9-9624-456c-a90d-7f9f4dca4cb4)
 - [Fundamentos de ETL com Python](https://www.dio.me/certificate/6B3AEB25) (Mar 2023) (DIO)  
 - [Formação Python para Data Science](https://cursos.alura.com.br/degree/certificate/7a472495-3ef3-41e3-a3e9-66b1bc7c7b63) (Feb 2023) (Alura)  
 - [Estatística com R](https://cursos.alura.com.br/degree/certificate/5c2cf776-196b-41fa-8fc0-1131196737f5) (Jan 2023) (Alura)  
